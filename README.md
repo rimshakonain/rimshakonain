@@ -53,21 +53,20 @@
 
 <div align="center">
   
-  <!-- Rimsha Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=rimshakonain&show_icons=true&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false" width="49%" alt="Github Stack"/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=rimshakonain&theme=tokyonight&hide_border=false" width="49%" alt="Rimsha GitHub Streak"/>
+  <!-- GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=rimshakonain&show_icons=true&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false" width="49%" alt=""/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=rimshakonain&theme=tokyonight&hide_border=false" width="49%" alt=""/>
   
   <br><br>
   
-  <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rimshakonain&layout=compact&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false" width="49%" alt="Rimsha Top Languages"/>
-  
+<div align="center">
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rimshakonain&layout=compact&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false" width="49%" alt=""/>
+
 </div>
 
 ---
-
-<div align="center">
-  
+ 
 ### 🏆 GitHub Trophies
   
 [![trophy](https://github-profile-trophy.vercel.app/?username=rimshakonain&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
@@ -78,8 +77,14 @@
 
 <div align="center">
 
-### 💭 *"Building ERPs, one commit at a time..."*
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+<!-- Snake Game Repo View -->
 
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1E3C72,2A5298,4A90E2&height=100&section=footer" width="100%"/>
 </div>
