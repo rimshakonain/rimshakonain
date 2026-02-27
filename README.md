@@ -53,14 +53,15 @@
 
 <div align="center">
   
-  <img src="https://github-readme-stats.vercel.app/api?username=rimshacomix&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" width="49%" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rimshacomix&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" width="49%" alt="GitHub Streak"/>
+  <!-- Rimsha Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=rimshakonain&show_icons=true&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false" width="49%" alt="Github Stack"/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=rimshakonain&theme=tokyonight&hide_border=false" width="49%" alt="Rimsha GitHub Streak"/>
   
   <br><br>
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rimshacomix&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8" width="49%" alt="Top Languages"/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rimshacomix&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=C9D1D9" width="49%" alt="Contribution Graph"/>
-
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rimshakonain&layout=compact&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false" width="49%" alt="Rimsha Top Languages"/>
+  
 </div>
 
 ---
