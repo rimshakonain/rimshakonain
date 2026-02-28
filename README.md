@@ -19,7 +19,7 @@
 
 ---
 
-<h2 align="left">💻 Tech Arsenal</h2>
+<h2 align="left">💡 Skills & Expertise</h2>
 
 
 <div align="center">
