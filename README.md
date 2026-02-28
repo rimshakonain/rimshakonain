@@ -62,7 +62,7 @@
   
 <div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rimshakonain&layout=compact&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false" width="49%" alt=""/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rimshakonain&layout=compact&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false" width="49%" alt="Top Lang"/>
 
 </div>
 
