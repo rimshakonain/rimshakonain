@@ -92,9 +92,9 @@
 
 | **GetMeAChai ☕** |
 | :---: |
-| [![GetMeAChai](./assets/GetMeAChai.png)](https://github.com) |
+| [![GetMeAChai](./assets/GetMeAChai.png)](https://github.com/rimshakonain/GetMeAChai) |
 | <br> ![Next.js](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?style=for-the-badge&logo=mongodb&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white) <br><br> **☕ Creator Crowdfunding Platform** <br> Patreon-style solution for creators with Razorpay payment integration, supporter management, and real-time contribution tracking. <br> |
-| [Repo](https://github.com) |
+| [Repo](https://github.com/rimshakonain/GetMeAChai) |
 
 </div>
 
