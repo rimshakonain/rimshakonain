@@ -57,7 +57,7 @@
 
 | **BitTree 🌳** | **GetMeAChai ☕** | **BitLinks 🔗** |
 | :---: | :---: | :---: |
-| [![BitTree](https://github.com)](https://github.com) | [![GetMeAChai](https://github.com)](https://github.com) | [![BitLinks](https://github.com)](https://github.com) |
+| [![BitTree](./assets/BitTree.png)](https://github.com) | [![GetMeAChai](./assets/GetMeAChai.png)](https://github.com) | [![BitLinks](./assets/BitLinks.png)](https://github.com) |
 | *Everything you are. In one link.* | *Creator monetization platform.* | *URL shortening microservice.* |
 | [Repo](https://github.com) | [Repo](https://github.com) | [Repo](https://github.com) |
 
@@ -66,7 +66,7 @@
 
 | **PassOP 🔐** | **iTask ✅** | **Twitter UI 🐦** |
 | :---: | :---: | :---: |
-| [![PassOP](https://github.com)](https://github.com) | [![iTask](https://github.com)](https://github.com) | [![Twitter](https://github.com)](https://github.com) |
+| [![PassOP](./assets/PassOP.png)](https://github.com) | [![iTask](./assets/iTask.png)](https://github.com) | [![Twitter](./assets/Twitter-UI.png)](https://github.com) |
 | *Secure credential architect.* | *High-performance productivity.* | *Tailwind CSS design study.* |
 | [Repo](https://github.com) | [Repo](https://github.com) | [Repo](https://github.com) |
 
@@ -75,11 +75,12 @@
 
 | **Spotify Clone 🎵** |
 | :---: |
-| [![Spotify](https://github.com)](https://github.com) |
+| [![Spotify](./assets/Spotify.png)](https://github.com) |
 | *Vanilla JS audio engine.* |
 | [Repo](https://github.com) |
 
 </div>
+
 
 ---
 
