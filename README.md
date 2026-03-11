@@ -54,33 +54,49 @@
 
 <div align="center">
 
-
-| **BitTree 🌳** | **GetMeAChai ☕** | **BitLinks 🔗** |
-| :---: | :---: | :---: |
-| [![BitTree](./assets/BitTree.png)](https://github.com) | [![GetMeAChai](./assets/GetMeAChai.png)](https://github.com) | [![BitLinks](./assets/BitLinks.png)](https://github.com) |
-| *Everything you are. In one link.* | *Creator monetization platform.* | *URL shortening microservice.* |
-| [Repo](https://github.com) | [Repo](https://github.com) | [Repo](https://github.com) |
-
-<br>
+<!-- Row 1 -->
 
 
-| **PassOP 🔐** | **iTask ✅** | **Twitter UI 🐦** |
-| :---: | :---: | :---: |
-| [![PassOP](./assets/PassOP.png)](https://github.com) | [![iTask](./assets/iTask.png)](https://github.com) | [![Twitter](./assets/Twitter-UI.png)](https://github.com) |
-| *Secure credential architect.* | *High-performance productivity.* | *Tailwind CSS design study.* |
-| [Repo](https://github.com) | [Repo](https://github.com) | [Repo](https://github.com) |
+| **BitTree 🌳** | **BitLinks 🔗** |
+| :---: | :---: |
+| [![BitTree](./assets/BitTree.png)](https://github.com) | [![BitLinks](./assets/BitLinks.png)](https://github.com) |
+| <br> ![Next.js](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?style=for-the-badge&logo=mongodb&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) <br><br> **Everything you are. In one, simple link in bio.** <br> One link to help you share everything you create, curate and sell from your Instagram, TikTok, and other social profiles. <br> | <br> ![Next.js](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?style=for-the-badge&logo=mongodb&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) <br><br> **🌐 Interactive Web Portal** <br> Modern full-stack web portal with custom slug generation, link mapping, and rapid server-side redirection. <br> |
+| [Repo](https://github.com) | [Repo](https://github.com) |
 
 <br>
 
+<!-- Row 2 -->
 
-| **Spotify Clone 🎵** |
+
+| **PassOP 🔐** | **iTask ✅** |
+| :---: | :---: |
+| [![PassOP](./assets/PassOP.png)](https://github.com) | [![iTask](./assets/iTask.png)](https://github.com) |
+| <br> ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?style=for-the-badge&logo=mongodb&logoColor=white) <br><br> **📊 Data Analytics Dashboard** <br> Real-time business intelligence dashboard with interactive charts, KPI tracking, and custom security reporting. <br> | <br> ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white) <br><br> **🎯 Task Management App** <br> Productivity app with task scheduling, reminders, team collaboration, and progress tracking features. <br> |
+| [Repo](https://github.com) | [Repo](https://github.com) |
+
+<br>
+
+<!-- Row 3 -->
+
+
+| **Twitter UI 🐦** | **Spotify Clone 🎵** |
+| :---: | :---: |
+| [![Twitter](./assets/Twitter-UI.png)](https://github.com) | [![Spotify](./assets/Spotify.png)](https://github.com) |
+| <br> ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) <br><br> **📱 Responsive Web Portal** <br> Modern full-stack web portal with responsive design, pixel-perfect UI recreation, and mobile optimization. <br> | <br> ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) <br><br> **🎵 Media Analytics Player** <br> Real-time audio engine with local file management, interactive controls, and playlist tracking. <br> |
+| [Repo](https://github.com) | [Repo](https://github.com) |
+
+<br>
+
+<!-- Final 7th Place -->
+
+
+| **GetMeAChai ☕** |
 | :---: |
-| [![Spotify](./assets/Spotify.png)](https://github.com) |
-| *Vanilla JS audio engine.* |
+| [![GetMeAChai](./assets/GetMeAChai.png)](https://github.com) |
+| <br> ![Next.js](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?style=for-the-badge&logo=mongodb&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white) <br><br> **☕ Creator Crowdfunding Platform** <br> Patreon-style solution for creators with Razorpay payment integration, supporter management, and real-time contribution tracking. <br> |
 | [Repo](https://github.com) |
 
 </div>
-
 
 ---
 
