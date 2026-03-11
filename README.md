@@ -64,7 +64,7 @@
   <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rimshakonain&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8" width="49%" alt=""/> -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=rimshakonain&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=C9D1D9" width="49%" alt="Contribution Graph"/>
 
-  <br><br>
+
   
   <img align="top" src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=rimshakonain&theme=github_dark&show_icons=true&layout=compact&langs_count=8"  alt="My GitHub stats" />
 
