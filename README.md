@@ -50,7 +50,7 @@
 
 ---
 
-<h2 align="left">🖼️ Project Gallery</h2>
+<h2 align="left">🖼️ Selected Works</h2>
 
 <div align="center">
 
