@@ -50,6 +50,40 @@
 
 ---
 
+<h2 align="left">🖼️ Project Gallery</h2>
+
+<div align="center">
+
+
+| **BitTree 🌳** | **GetMeAChai ☕** | **BitLinks 🔗** |
+| :---: | :---: | :---: |
+| [![BitTree](https://github.com)](https://github.com) | [![GetMeAChai](https://github.com)](https://github.com) | [![BitLinks](https://github.com)](https://github.com) |
+| *Everything you are. In one link.* | *Creator monetization platform.* | *URL shortening microservice.* |
+| [Repo](https://github.com) | [Repo](https://github.com) | [Repo](https://github.com) |
+
+<br>
+
+
+| **PassOP 🔐** | **iTask ✅** | **Twitter UI 🐦** |
+| :---: | :---: | :---: |
+| [![PassOP](https://github.com)](https://github.com) | [![iTask](https://github.com)](https://github.com) | [![Twitter](https://github.com)](https://github.com) |
+| *Secure credential architect.* | *High-performance productivity.* | *Tailwind CSS design study.* |
+| [Repo](https://github.com) | [Repo](https://github.com) | [Repo](https://github.com) |
+
+<br>
+
+
+| **Spotify Clone 🎵** |
+| :---: |
+| [![Spotify](https://github.com)](https://github.com) |
+| *Vanilla JS audio engine.* |
+| [Repo](https://github.com) |
+
+</div>
+
+---
+
+
 <h2 align="left">📊 GitHub Analytics</h2>
 <div align="center">
   
