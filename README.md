@@ -79,10 +79,10 @@
 <!-- Row 3 -->
 
 
-| **Twitter UI 🐦** | **Spotify Clone 🎵** |
+| **X-UI 🐦** | **Spotify Clone 🎵** |
 | :---: | :---: |
 | [![Twitter](./assets/Twitter-UI.png)](https://github.com/rimshakonain/Twitter-UI) | [![Spotify](./assets/Spotify.png)](https://github.com/rimshakonain/Spotify) |
-| <br> ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) <br><br> **📱 Responsive Web Portal** <br> Modern full-stack web portal with responsive design, pixel-perfect UI recreation, and mobile optimization. <br> | <br> ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) <br><br> **🎵 Media Analytics Player** <br> Real-time audio engine with local file management, interactive controls, and playlist tracking. <br> |
+| <br> ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) <br><br> **🐦 What is happening?!** <br> A pixel-perfect social interface built to master complex layouts. High-fidelity, responsive design focused on modern UI patterns. <br> | <br> ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) <br><br> **🎵 Media Analytics Player** <br> Real-time audio engine with local file management, interactive controls, and playlist tracking. <br> |
 | [Repo](https://github.com/rimshakonain/Twitter-UI) | [Repo](https://github.com/rimshakonain/Spotify) |
 
 <br>
