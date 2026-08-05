@@ -54,8 +54,17 @@
 
 <div align="center">
 
-<!-- Row 1 -->
+<!-- Final 7th Place -->
 
+| **GetMeAChai ☕** |
+| :---: |
+| [![GetMeAChai](./assets/GetMeAChai.png)](https://github.com/RimshaComix/GetMeAChai) |
+| <br> ![Next.js](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?style=for-the-badge&logo=mongodb&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white) <br><br> **☕ Creator Crowdfunding Platform** <br> Patreon-style solution for creators with Razorpay payment integration, supporter management, and real-time contribution tracking. <br> |
+| [Repo](https://github.com/RimshaComix/GetMeAChai) |
+
+<br>
+
+<!-- Row 1 -->
 
 | **BitTree 🌳** | **BitLinks 🔗** |
 | :---: | :---: |
@@ -86,15 +95,6 @@
 | [Repo](https://github.com/RimshaComix/Twitter-UI) | [Repo](https://github.com/RimshaComix/Spotify) |
 
 <br>
-
-<!-- Final 7th Place -->
-
-
-| **GetMeAChai ☕** |
-| :---: |
-| [![GetMeAChai](./assets/GetMeAChai.png)](https://github.com/RimshaComix/GetMeAChai) |
-| <br> ![Next.js](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?style=for-the-badge&logo=mongodb&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white) <br><br> **☕ Creator Crowdfunding Platform** <br> Patreon-style solution for creators with Razorpay payment integration, supporter management, and real-time contribution tracking. <br> |
-| [Repo](https://github.com/RimshaComix/GetMeAChai) |
 
 </div>
 
