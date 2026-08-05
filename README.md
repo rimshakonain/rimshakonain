@@ -59,9 +59,9 @@
 
 | **BitTree 🌳** | **BitLinks 🔗** |
 | :---: | :---: |
-| [![BitTree](./assets/BitTree.png)](https://github.com/rimshakonain/BitTree) | [![BitLinks](./assets/BitLinks.png)](https://github.com/rimshakonain/BitLinks) |
+| [![BitTree](./assets/BitTree.png)](https://github.com/RimshaComix/BitTree) | [![BitLinks](./assets/BitLinks.png)](https://github.com/RimshaComix/BitLinks) |
 | <br> ![Next.js](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?style=for-the-badge&logo=mongodb&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) <br><br> **🔗 Everything you are. In one, simple link in bio.** <br> One link to help you share everything you create, curate and sell from your Instagram, TikTok, and other social profiles. <br> | <br> ![Next.js](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?style=for-the-badge&logo=mongodb&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) <br><br> **🌐 The best URL shortener in the Market** <br> The most straightforward URL shortener no tracking or login required.We understand your needs,so we created a tool that just works. <br> |
-| [Repo](https://github.com/rimshakonain/BitTree) | [Repo](https://github.com/rimshakonain/BitLinks) |
+| [Repo](https://github.com/RimshaComix/BitTree) | [Repo](https://github.com/RimshaComix/BitLinks) |
 
 <br>
 
@@ -70,9 +70,9 @@
 
 | **PassOP 🔐** | **iTask ✅** |
 | :---: | :---: |
-| [![PassOP](./assets/PassOP.png)](https://github.com/rimshakonain/PassOP) | [![iTask](./assets/iTask.png)](https://github.com/rimshakonain/iTask) |
+| [![PassOP](./assets/PassOP.png)](https://github.com/RimshaComix/PassOP) | [![iTask](./assets/iTask.png)](https://github.com/RimshaComix/iTask) |
 | <br> ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?style=for-the-badge&logo=mongodb&logoColor=white) <br><br> **🔑 Your own Password Manager.** <br> Everything you need to store, edit, and manage your credentials. No tracking, no login just a tool that works. <br> | <br> ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white) <br><br> **🎯 Task Management App** <br> A clean, focused space to track and finish your daily tasks. Organize your goals without the clutter. <br> |
-| [Repo](https://github.com/rimshakonain/PassOP) | [Repo](https://github.com/rimshakonain/iTask) |
+| [Repo](https://github.com/RimshaComix/PassOP) | [Repo](https://github.com/RimshaComix/iTask) |
 
 <br>
 
@@ -81,9 +81,9 @@
 
 | **X-UI 🐦** | **Spotify Clone 🎵** |
 | :---: | :---: |
-| [![Twitter](./assets/Twitter-UI.png)](https://github.com/rimshakonain/Twitter-UI) | [![Spotify](./assets/Spotify.png)](https://github.com/rimshakonain/Spotify) |
+| [![Twitter](./assets/Twitter-UI.png)](https://github.com/RimshaComix/Twitter-UI) | [![Spotify](./assets/Spotify.png)](https://github.com/RimshaComix/Spotify) |
 | <br> ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) <br><br> **🐦 What is happening?!** <br> A pixel-perfect social interface built to master complex layouts. High-fidelity, responsive design focused on modern UI patterns. <br> | <br> ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) <br><br> **🎵 Media Analytics Player** <br> Real-time audio engine with local file management, interactive controls, and playlist tracking. <br> |
-| [Repo](https://github.com/rimshakonain/Twitter-UI) | [Repo](https://github.com/rimshakonain/Spotify) |
+| [Repo](https://github.com/RimshaComix/Twitter-UI) | [Repo](https://github.com/RimshaComix/Spotify) |
 
 <br>
 
@@ -92,9 +92,9 @@
 
 | **GetMeAChai ☕** |
 | :---: |
-| [![GetMeAChai](./assets/GetMeAChai.png)](https://github.com/rimshakonain/GetMeAChai) |
+| [![GetMeAChai](./assets/GetMeAChai.png)](https://github.com/RimshaComix/GetMeAChai) |
 | <br> ![Next.js](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?style=for-the-badge&logo=mongodb&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white) <br><br> **☕ Creator Crowdfunding Platform** <br> Patreon-style solution for creators with Razorpay payment integration, supporter management, and real-time contribution tracking. <br> |
-| [Repo](https://github.com/rimshakonain/GetMeAChai) |
+| [Repo](https://github.com/RimshaComix/GetMeAChai) |
 
 </div>
 
@@ -104,8 +104,8 @@
 <h2 align="left">📊 GitHub Analytics</h2>
 <div align="center">
   
-  <img src="https://github-readme-stats.vercel.app/api?username=rimshakonain&show_icons=true&theme=tokyonight&hide_border=false&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" width="49%" alt=""/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rimshakonain&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" width="49%" alt=""/>
+  <img src="https://github-readme-stats.vercel.app/api?username=RimshaComix&show_icons=true&theme=tokyonight&hide_border=false&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" width="49%" alt=""/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RimshaComix&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" width="49%" alt=""/>
   
 
 
@@ -113,11 +113,11 @@
   <br><br>
   
   <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rimshakonain&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8" width="49%" alt=""/> -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rimshakonain&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=C9D1D9" width="49%" alt="Contribution Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RimshaComix&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=C9D1D9" width="49%" alt="Contribution Graph"/>
 
 
   
-  <img align="top" src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=rimshakonain&theme=github_dark&show_icons=true&layout=compact&langs_count=8"  alt="My GitHub stats" />
+  <img align="top" src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=RimshaComix&theme=github_dark&show_icons=true&layout=compact&langs_count=8"  alt="My GitHub stats" />
 
 </div>
 
@@ -125,7 +125,7 @@
  
 ### 🏆 GitHub Trophies
   
-[![trophy](https://github-profile-trophy.vercel.app/?username=rimshakonain&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=RimshaComix&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
